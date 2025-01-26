@@ -2,12 +2,12 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Văn Thành IOS",
-         Animation = "Script Tổng Hợp Ver1"
+         Title = "Hoàng Giang IOS",
+         Animation = "GIANG IOS"
          },
         Key = {
         KeySystem = false,
-        Title = "Văn ThànHh IOS / Scrit Tổng Hợp",
+        Title = " Hoàng Giang IOS / Scrit Tổng Hợp",
         Description = "",
         KeyLink = "",
         Keys = {"VanThanhIOS"},
@@ -33,7 +33,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
      local Tab1o = MakeTab({Name = "Chức Năng"})
     
     AddButton(Tab1o, {
-     Name = "Min Gaming",
+     Name = "",
     Callback = function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinAE"))()
